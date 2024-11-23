@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v2.3.2
+
+- ✨ Testing updates
+
 ## v2.3.0
 
 - ✨ Real-Debrid support for streaming and downloading
