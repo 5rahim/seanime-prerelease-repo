@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	docsUrl   = "https://seanime.rahim.app/api/release"
+	docsUrl   = "https://seanime.rahim.app/api/releases"
 	githubUrl = "https://api.github.com/repos/5rahim/seanime-prerelease-repo/releases/latest"
 )
 
