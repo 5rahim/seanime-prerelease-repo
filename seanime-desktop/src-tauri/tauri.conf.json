@@ -1,7 +1,7 @@
 {
-  "productName": "Seanime Desktop",
+  "productName": "Seanime Desktop Prerelease",
   "version": "0.1.0",
-  "identifier": "app.seanime.desktop",
+  "identifier": "app.seanime.prerelease",
   "build": {
     "frontendDist": "../../web-desktop",
     "devUrl": "http://127.0.0.1:43210"
@@ -49,7 +49,7 @@
     "updater": {
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDg4Q0RFQTc5NTQyRDU4RDYKUldUV1dDMVVlZXJOaU8xMlBhbU1xNG1IY2lLVG1oMXBnWm81VTNKem11N3EzcWk4NHI0SXhtbGkK",
       "endpoints": [
-        "https://github.com/5rahim/seanime/releases/latest/download/latest.json"
+        "https://github.com/5rahim/seanime-prerelease-repo/releases/latest/download/latest.json"
       ]
     }
   },
